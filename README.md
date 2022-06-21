@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=&margin-w=0)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShinoharaRyuga)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ShinoharaRyuga/ShinoharaRyuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
